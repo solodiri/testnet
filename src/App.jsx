@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Making The World Turn Around With React JS</h1>
+      <img src="./images/stella.jpg" alt="my Image" />
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
